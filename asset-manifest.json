@@ -1,16 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/portfolio/static/js/main.e1bc6bb6.js",
+    "main.js": "/portfolio/static/js/main.c74d6400.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/federico-beccari-L8126OwlroY-unsplash.jpeg": "/portfolio/static/media/federico-beccari-L8126OwlroY-unsplash.b9028928b5a942861750.jpeg",
+    "static/media/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg": "/portfolio/static/media/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.49736664e59a2cc86aa5.jpg",
+    "static/media/listing-results.png": "/portfolio/static/media/listing-results.2d228e401a84b770d76e.png",
+    "static/media/resale-hdb-screen.png": "/portfolio/static/media/resale-hdb-screen.568f37a8181779989845.png",
+    "static/media/affordability-screen.png": "/portfolio/static/media/affordability-screen.773c7a4ee14705b071ba.png",
+    "static/media/mortgage-screen.png": "/portfolio/static/media/mortgage-screen.da500c44c22abb34ee2e.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.351ff7c0b4e6a3a82c9f.png",
     "index.html": "/portfolio/index.html",
     "main.f855e6bc.css.map": "/portfolio/static/css/main.f855e6bc.css.map",
-    "main.e1bc6bb6.js.map": "/portfolio/static/js/main.e1bc6bb6.js.map",
+    "main.c74d6400.js.map": "/portfolio/static/js/main.c74d6400.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e1bc6bb6.js"
+    "static/js/main.c74d6400.js"
   ]
 }
